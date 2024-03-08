@@ -150,8 +150,7 @@ print(""" this-account-is-spamer-and-uplod-naked-content(
 print(f"\033[36m")
 
 time.sleep(5)
-
 print(f"\033[32m")
-print(' 20 sayer 30 mostahjan ')
+print(' 30 sayer 40 mostahjan ')
   
 time.sleep(10.6)

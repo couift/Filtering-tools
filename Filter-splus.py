@@ -141,7 +141,7 @@ time.sleep(3)
 print ("")
 
 
-idta3get == input('id target ro bedoon @ vared con >>> ')
+'idta3get' == input('id target ro bedoon @ vared con >>> ')
 
 print(f"\033[36m")
 print(""" this-account-is-spamer-and-uplod-naked-content(

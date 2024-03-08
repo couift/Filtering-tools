@@ -100,7 +100,7 @@ print ("")
 idta4get = input('id target channel ro bedoon @ vared con >>> ')
 
 print(f"\033[36m")
-print( random.choice(gvoxzarsh)+''+'https://eitaa.com/'+''+idta4get)
+print( random.choice(govxzarsh)+''+'https://eitaa.com/'+''+idta4get)
 print(f"\033[36m")
 
 time.sleep(5)

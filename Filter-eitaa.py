@@ -16,7 +16,7 @@ boldblue='\033[0m'
 govxzarsh = ['This-channel-promotes-suicide','This-channel-promotes-violent-scenes','This-channel-promotes-self-abuse-and-other-abuse','This-channel-is-spamming','This-channel-promotes-hacking','This-channel-is-scamming','This-channel-posts-inappropriate-ads','This-channel-posts-videos-about-womens-dance','This channel is insulting','This channel-is-obscene','This-channel-promotes-breaking-norms','This-channel-promotes-nudity','This-channel-is-about-sexual-relations','This-channel-promotes-erotic-scenes','This-channel-insults-Islamic-affairs','This-channel-insults-the-IRGC','This-channel-curses-the-mobilization-of-the-oppressed','This-channel-is-an-anti-Islamic-revolution','This-channel-curses-Imam-Khomeini-and-Khamenei','This-channel-has-an-inappropriate-profile']
 
 print(f"\033[35m")
-print(f"""
+x = f"""
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣤⣠⣤⣠⣄⣤⣠⣤⣠⣤⣠⣤⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⣾⡿⢛⠭⠿⣛⣛⣭⣭⣭⣟⣋⣩⣉⠉⠉⠉⠉⠉⠉⠉⠉⢈⣭⡭⠭⣥⠭⢥⣥⣉⣈⠭⠙⣿⣿⣶⣶⣄⡀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⢫⡮⣔⠡⠚⢛⣋⣩⣭⣍⣙⡛⢻⠿⣖⡬⣭⠿⠷⣶⣷⣿⣿⣵⢴⣟⡿⢿⣿⣶⣠⡩⣗⠨⡁⢌⠙⡿⢿⣿⣿⣦⡀⠀⠀⠀⠀⠀

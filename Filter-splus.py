@@ -97,7 +97,7 @@ print ("")
 'idta3get' == input('id target ro bedoon @ vared con >>> ')
 
 print(f"\033[36m")
-print(choice.random(goxzarsh)+""https://splus.ir""+'idta3get'
+print(choice.random('goxzarsh')+""https://splus.ir""+'idta3get'
 print(f"\033[36m")
 
 time.sleep(5)

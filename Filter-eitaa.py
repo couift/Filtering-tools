@@ -3,7 +3,6 @@ import sys
 from subprocess import call
 from sys import platform
 import time
-import datetime
 
 
 red='\033[31m'
